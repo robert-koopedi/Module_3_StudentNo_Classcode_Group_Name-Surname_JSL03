@@ -1,6 +1,7 @@
 # [JSL03] Project Submission: Which one is which? Declarative or Imperative?!
 
-Loom Recording Link: [Insert Link]
+Loom Recording Link: Example 1[https://www.loom.com/share/f203f7257f884f54b790be3cff302de4?sid=9ce7963f-0479-4159-b40a-74d134578196]
+Example 2[https://www.loom.com/share/a6252a14f8104a2d8a89ab129fbe33c3?sid=ed43abad-6d44-419e-bf35-8b563cb886e7]
 
 # Project Overview
 
@@ -17,6 +18,7 @@ Repo Link: https://github.com/CodeSpace-Academy/Module_3_StudentNo_Classcode_Gro
 1. Access the provided repository containing the starter code and presentation template.
 2. Clone the repository.
 3. Open the cloned repository in your preferred code editor.
+
 
 ## Step 2: Analyze the Examples
 
@@ -59,7 +61,7 @@ Follow the steps outlined above to complete the project successfully.
 
 # Presentation Talking Points
 
-Example #: [Insert Example Number]
+Example #: [1]
 
 ## Imperative Approach [2 Minutes]
 1. **Step-by-Step Explanation:** Start by explaining the code logic in the imperative approach.
@@ -72,7 +74,7 @@ Example #: [Insert Example Number]
    - Discuss any mutable variables or states that change during execution.
 
 
-Example #: [Insert Example Number]
+Example #: [2]
 
 ## Declarative Approach [2 Minutes]
 1. **High-Level Process Description:** Explain the code logic in the declarative approach.
